@@ -12,7 +12,7 @@
   <a href="https://twitter.com/cyruskigo30">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-   
+   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cyruskigo30" alt="visitor badge"/>
   
   <h1>
