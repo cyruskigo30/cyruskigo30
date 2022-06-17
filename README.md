@@ -21,8 +21,10 @@
 
 
 
-I'm a UI / UX designer hobbyist and mobile apps engineer from Nairobi Kenya. I am passionate about designing and building both web and mobile applications that have an impact to the society around me. 
+I'm a UI / UX designer hobbyist and mobile apps engineer from Nairobi Kenya. I am passionate about designing and developing both web and mobile applications that have an impact to the society around me. 
 
-Some of the design technologies I enjoy working with include Figma, Adobe Xd, Adobe Illustrator, Adobe Indesign and Adobe Photoshop. When not developing mobile applications I create freelance graphic designs and share them both in my design and creative website portfolio:  http://cyrusgraphics.com as well as my facebook page: https://www.facebook.com/cyrusgraphics and instagram page: https://www.instagram.com/cyrusgraphics/
+When it comes to design technologies I am well versant and enjoy working with Figma, Adobe Xd, Adobe Illustrator, Adobe Indesign and Adobe Photoshop. When not developing mobile applications I create freelance graphic designs and share them both in my design and creative website portfolio:  http://cyrusgraphics.com as well as my facebook page: https://www.facebook.com/cyrusgraphics and instagram page: https://www.instagram.com/cyrusgraphics/
 
-When it comes to mobile apps development I am a flutter and dart die hard.  My interest in  mobile applications development specifically with the flutter / dart ecosystem led me to launch my own software company that specializes in creating mobile and web applications using this technology.
+When it comes to mobile apps development, I am a flutter and dart die hard.  My interest and continued farmiliarity in  mobile applications development specifically with the flutter and dart ecosystem has led me to create multi-platform projects as well as launch my own software company that specializes in identifying and creating mobile and web applications using this technology.
+
+
