@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 I am Cyrus
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif)" width="100"/>
-</div>
+<iframe src="https://giphy.com/embed/E89xxATM4iZoPdr6Tb" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GDevs-google-googleio-googledevs-E89xxATM4iZoPdr6Tb">via GIPHY</a></p>
 
 I'm a UI / UX designer hobbyist and mobile apps engineer from Nairobi Kenya. I am passionate baout designing and building applications that have an impact to the society around me. Somthing that makes performing every day's activities simpler  and more efficient. 
 
