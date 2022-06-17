@@ -35,5 +35,6 @@ When it comes to mobile apps development, I am a flutter and dart die hard.  My 
 
 What I love about the flutter and dart ecosystem is the continous growth the continues to scale on the number of devices that can run the same codebase, The hot reload feature that allows me to review the app as I code, the null safety feature that helps eliminate mind bugging errors, and the recently introduced Material You design in flutter 3 that expands and allows the use of diffrent app themes based on the device display.
 
-### latest Blog Posts;
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
