@@ -22,11 +22,11 @@
   Hello there, I am Cyrus.
 </h1> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
+  
+  # About me
 </div>
 
 
-
-### About me;
 I'm a UI / UX designer hobbyist and mobile apps engineer from Nairobi Kenya. I am passionate about designing and developing both web and mobile applications that have an impact to the society around me. 
 
 When it comes to design technologies I am well versant and enjoy working with Figma, Adobe Xd, Adobe Illustrator, Adobe Indesign and Adobe Photoshop. When not developing mobile applications I create freelance graphic designs and share them both in my design and creative website portfolio:  http://cyrusgraphics.com as well as my facebook page: https://www.facebook.com/cyrusgraphics and instagram page: https://www.instagram.com/cyrusgraphics/
