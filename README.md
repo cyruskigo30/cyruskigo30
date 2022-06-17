@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Cyrus
-<div id="header" align="center">
+<div id="header" align="center" style="background-color:white;">
   <img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" width="100"/>
 </div>
 
