@@ -13,12 +13,15 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
    
+       
+  
   <h1>
   Hello there, I am Cyrus.
 </h1> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
 </div>
 
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cyruskigo30)
 
 
 I'm a UI / UX designer hobbyist and mobile apps engineer from Nairobi Kenya. I am passionate about designing and developing both web and mobile applications that have an impact to the society around me. 
