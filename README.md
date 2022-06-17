@@ -9,10 +9,11 @@
 <!--   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Website Badge"/>
   </a> -->
+    
   <a href="https://twitter.com/cyruskigo30">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-   <br>
+   <br>  <br>   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cyruskigo30" alt="visitor badge"/>
   
   <h1>
@@ -21,7 +22,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
 </div>
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cyruskigo30)
+
 
 
 I'm a UI / UX designer hobbyist and mobile apps engineer from Nairobi Kenya. I am passionate about designing and developing both web and mobile applications that have an impact to the society around me. 
