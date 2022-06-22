@@ -26,14 +26,13 @@
   # About me
 </div>
 
+I'm a flutter / dart developer and a self taught UI / UX designer  from Nairobi Kenya. My interests are all about designing and developing both web and mobile applications that have an impact to the society.
 
-I'm a UI / UX designer hobbyist and mobile apps engineer from Nairobi Kenya. I am passionate about designing and developing both web and mobile applications that have an impact to the society around me. 
+When it comes to mobile apps development, I develop  using the flutter and dart ecosystem especially because of it's ability to allow for creation of  multi-platform applications from one code base.
 
-When it comes to design technologies I am well versant and enjoy working with Figma, Adobe Xd, Adobe Illustrator, Adobe Indesign and Adobe Photoshop. When not developing mobile applications I create freelance graphic designs and share them both in my design and creative website portfolio:  http://cyrusgraphics.com as well as my facebook page: https://www.facebook.com/cyrusgraphics and instagram page: https://www.instagram.com/cyrusgraphics/
+When it comes to design technologies, I am well versant with Figma and Adobe Xd for UI UX design  as well as Adobe Illustrator, Adobe Indesign and Adobe Photoshop for general design tasks. 
 
-When it comes to mobile apps development, I am a flutter and dart die hard.  My interest and continued farmiliarity in  mobile applications development specifically with the flutter and dart ecosystem has led me to create multi-platform projects as well as launch my own software company that specializes in identifying and creating mobile and web applications using this technology.
-
-What I love about the flutter and dart ecosystem is the continous growth the continues to scale on the number of devices that can run the same codebase, The hot reload feature that allows me to review the app as I code, the null safety feature that helps eliminate mind bugging errors, and the recently introduced Material You design in flutter 3 that expands and allows the use of diffrent app themes based on the device display.
+When not developing applications or designing user interfaces, I create freelance graphic designs and share them both in my design and creative website portfolio: http://cyrusgraphics.com as well as my facebook page: https://www.facebook.com/cyrusgraphics and instagram page: https://www.instagram.com/cyrusgraphics/
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
