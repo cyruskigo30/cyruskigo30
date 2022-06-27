@@ -26,14 +26,7 @@
   # About me
 </div>
 
-I'm a flutter / dart developer and a self taught UI / UX designer  from Nairobi Kenya. My interests are all about designing and developing both web and mobile applications that have an impact to the society.
+I'm a Technical Support Specialist from Kenya. I have over six years of experience serving various organizations and their customers as a Technical support Engineer. 
 
-When it comes to mobile apps development, I develop  using the flutter and dart ecosystem especially because of it's ability to allow for creation of  multi-platform applications from one code base.
+I like learning and working with new technologies and currently, I'm learning app development specifically the flutter / dart ecosystem hence this github account. I chose to learn this ecosystem because of it's ability to allow for creation of  multi-platform applications from one code base.
 
-When it comes to design technologies, I am well versant with Figma and Adobe Xd for UI UX design  as well as Adobe Illustrator, Adobe Indesign and Adobe Photoshop for general design tasks. 
-
-When not developing applications or designing user interfaces, I create freelance graphic designs and share them both in my design and creative website portfolio: http://cyrusgraphics.com as well as my facebook page: https://www.facebook.com/cyrusgraphics and instagram page: https://www.instagram.com/cyrusgraphics/
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
