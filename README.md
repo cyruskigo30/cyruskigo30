@@ -26,9 +26,5 @@
   # About me
 </div>
 
-Dependable WordPress Support Specialist and Self-taught Graphic Designer, equipped for fast-paced remote work and changing daily needs. Serving customers effectively with attention to detail and a hardworking approach for 6+ years. Seeking opportunities to go beyond basics, improve processes and increase customer satisfaction. 
 
-Accustomed to independently evaluating and solving WordPress issues as well as providing maintenance and support services. Experienced in WordPress Maintenance and Support, WordPress Content updates, Web development, Application Support, Technical Support, Customer Support, and Graphic Design. I Quickly troubleshoot concerns and diagnose root causes.
-
-I like learning and working with new technologies and currently, I'm learning app development specifically the flutter / dart ecosystem hence this github account. I chose to learn this ecosystem because of it's ability to allow for creation of  multi-platform applications from one code base.
 
